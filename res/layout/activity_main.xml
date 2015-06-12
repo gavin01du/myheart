@@ -14,7 +14,26 @@
     <FrameLayout
         android:id="@+id/container"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent" >
+
+        <!-- 
+	        <Button
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:id="@+id/button2EKG"
+	            android:text="TO EKG Wave" />
+	     -->    
+	        <Button
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:id="@+id/button2EKG02"
+	            android:text="TO EKG Wave 02" />                
+    	
+    
+        
+		
+    </FrameLayout>
+
 
     <!--
          android:layout_gravity="start" tells DrawerLayout to treat
